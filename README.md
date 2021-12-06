@@ -7,3 +7,5 @@
 - 💬 Ask me secrets of learning programming
 - 📫 How to reach me: kdivyanshu3@gmail.com
 - ⚡ Fun fact: eat code commit sleep repeat ( my daily routine)
+
+![kUNWAR-DIVYANSHU's github stats](https://github-readme-stats.vercel.app/api?username=kUNWAR-DIVYANSHU)
