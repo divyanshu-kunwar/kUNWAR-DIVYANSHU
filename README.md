@@ -10,5 +10,5 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=kUNWAR-DIVYANSHU&count_private=true&hide=prs&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kUNWAR-DIVYANSHU&layout=compact&theme=radical" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kUNWAR-DIVYANSHU&layout=compact&theme=radical" width="494px">
 
