@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 - 🔭 I’m currently working on stock market analysis and financial graph
