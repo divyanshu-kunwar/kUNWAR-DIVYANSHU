@@ -1,5 +1,5 @@
 # Hi there 👋
-
+<img src="./1.gif"/>
 
 - 🔭 I’m currently working on developing mobile app for automation of shop management system
 - 🌱 I’m currently learning data science
